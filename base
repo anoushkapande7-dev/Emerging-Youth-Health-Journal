@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Youth Medical Research Journal</title>
+
+<style>
+
+body{
+font-family: Arial;
+margin:0;
+background:#f5f5f5;
+}
+
+header{
+background:white;
+padding:20px;
+border-bottom:1px solid #ddd;
+}
+
+nav a{
+margin-right:20px;
+text-decoration:none;
+color:#333;
+font-weight:bold;
+}
+
+.hero{
+background:white;
+padding:40px;
+margin:30px;
+}
+
+.section{
+background:white;
+padding:30px;
+margin:30px;
+}
+
+.article{
+border-bottom:1px solid #eee;
+padding:15px 0;
+}
+
+.button{
+background:#2b6cb0;
+color:white;
+padding:10px 20px;
+text-decoration:none;
+border-radius:5px;
+}
+
+footer{
+background:#222;
+color:white;
+padding:20px;
+text-align:center;
+}
+
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>Youth Medical Research Journal</h1>
+
+<nav>
+<a href="#">Home</a>
+<a href="#">Latest Research</a>
+<a href="#">Submit</a>
+<a href="#">Archive</a>
+<a href="#">Editorial Board</a>
+<a href="#">About</a>
+</nav>
+</header>
+
+<div class="hero">
+<h2>Advancing Student Research in Medicine</h2>
+<p>A peer-reviewed student journal publishing research in medicine, public health, and biomedical science.</p>
+
+<a class="button" href="#">Submit Research</a>
+</div>
+
+<div class="section">
+<h2>Featured Research</h2>
+
+<div class="article">
+<h3>Water Quality Analysis of Public Sites in New Jersey</h3>
+<p>Student investigation analyzing drinking water chemistry across public locations.</p>
+</div>
+
+<div class="article">
+<h3>Pediatric Asthma Trends in Urban Communities</h3>
+<p>A literature review examining environmental and social determinants of asthma.</p>
+</div>
+
+<div class="article">
+<h3>Healthcare Accessibility in Underserved Regions</h3>
+<p>Public health analysis of healthcare disparities.</p>
+</div>
+
+</div>
+
+<div class="section">
+<h2>Call for Papers</h2>
+<p>We are currently accepting submissions in:</p>
+
+<ul>
+<li>Medicine</li>
+<li>Public Health</li>
+<li>Biomedical Science</li>
+<li>Healthcare Policy</li>
+</ul>
+
+<a class="button" href="#">View Submission Guidelines</a>
+
+</div>
+
+<footer>
+<p>© 2026 Youth Medical Research Journal</p>
+<p>Student-Led Nonprofit Publication</p>
+</footer>
+
+</body>
+</html>
